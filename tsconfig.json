@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],                                  
+    "allowJs": true,                                                   
+    "jsx": "react-jsx",                            
+    "strict": true,                                 
+    "moduleResolution": "node",                 
+    "resolveJsonModule": true,                    
+    "esModuleInterop": true,                       
+    "skipLibCheck": true,                           
+    "forceConsistentCasingInFileNames": true        
+  },
+  "include": ["src"]
+}
